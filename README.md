@@ -47,6 +47,3 @@ Turtle Crossing Game is a fun and challenging arcade-style game implemented in o
 
 Enjoy playing Turtle Crossing Game, and have fun crossing the road and challenging your skills to reach the finish line! If you have any questions or feedback, feel free to reach out.
 
----
-
-Feel free to add any additional information or customize the README to your preferences.
